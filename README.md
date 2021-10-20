@@ -1,4 +1,4 @@
-# FindMe - Web Browser made using Google API(Rapid API) and React JS
+# FindMe - a light weight web browser
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
